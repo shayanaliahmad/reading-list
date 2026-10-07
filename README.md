@@ -2,7 +2,7 @@
 
 A small reading list app built with Next.js and React, made to practise the front-end stack: components, state, and talking to a REST API.
 
-**Live demo:** (https://reading-list-sigma-three.vercel.app/)
+**Live demo:** https://reading-list-sigma-three.vercel.app/
 
 <img width="1250" height="1036" alt="image" src="https://github.com/user-attachments/assets/99a69817-812c-4ec4-b647-231a39ab7d5b" />
 
