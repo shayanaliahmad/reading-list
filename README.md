@@ -16,8 +16,8 @@ A small reading list app built with Next.js and React, made to practise the fron
 
 ## Built with
 
-- Next.js (App Router) and React
-- JavaScript (ES6+), HTML and CSS
+- Next.js and React
+- JavaScript, HTML and CSS
 - A Next.js route handler as the REST API (`GET` and `POST /api/books`)
 - React Context API to share the book list between components
 
